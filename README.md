@@ -12,13 +12,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### 📊 Stock Analysis
-![Stock Analysis](screenshots/analysis.png)
+![Stock Analysis](analysis.png)
 
 ### 💼 Portfolio Tracker
-![Portfolio](screenshots/portfolio.png)
+![Portfolio](portfolio.png)
 
 ---
 
