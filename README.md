@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-> Coming soon — deploying on Render.com
+> 🌐 Live at: https://stock-prediction-app-142t.onrender.com
 
 ---
 
