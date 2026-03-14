@@ -72,7 +72,7 @@ stock_prediction_project/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-prediction-app.git
+git clone https://github.com/shivamskg2004/stock-prediction-app.git
 cd stock-prediction-app
 ```
 
@@ -179,7 +179,7 @@ Any stock listed on **NSE** (National Stock Exchange) or **BSE** (Bombay Stock E
 - [ ] More technical indicators (VWAP, ATR, Stochastic)
 - [ ] Email/SMS price alerts
 - [ ] Multi-user authentication
-- [ ] Deploy on cloud (Render / Railway)
+- [x] Deploy on cloud (Render) ✅
 
 ---
 
