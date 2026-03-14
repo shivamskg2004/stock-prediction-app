@@ -1,8 +1,8 @@
-flask
-gunicorn
-yfinance
-pandas==1.5.3
-numpy==1.23.5
-scikit-learn==1.2.2
-plotly
-setuptools
+setuptools==68.0.0
+flask==3.0.3
+gunicorn==21.2.0
+yfinance==1.2.0
+pandas==2.1.4
+numpy==1.26.4
+scikit-learn==1.4.2
+plotly==5.18.0
