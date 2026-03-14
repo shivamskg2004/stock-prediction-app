@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Personal data
+portfolio.json
+
+# Environment variables
+.env
+.env.local
+
+# VS Code
+.vscode/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
